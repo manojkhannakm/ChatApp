@@ -1,4 +1,4 @@
-# ChatApp
+# Chat App
 
 ### Introduction
 

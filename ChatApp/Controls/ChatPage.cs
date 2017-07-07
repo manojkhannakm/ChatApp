@@ -30,7 +30,5 @@ namespace ChatApp.Controls
         {
             sendButton.Enabled = messageTextBox.Text.Length > 0;
         }
-
-
     }
 }
